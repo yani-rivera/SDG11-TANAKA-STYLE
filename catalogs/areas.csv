@@ -1,0 +1,5 @@
+area_id,title,subtitle,west,south,east,north,utm_epsg
+TGU,TEGUCIGALPA,Honduras · illuminated contours,-87.32,13.98,-87.10,14.18,32616
+SPS,SAN PEDRO SULA,Honduras · illuminated contours,-88.12,15.42,-87.93,15.60,32616
+CMY,COMAYAGUA,Honduras · illuminated contours,-87.76,14.36,-87.54,14.56,32616
+GUA,GUATEMALA CITY,Guatemala · illuminated contours,-90.62,14.52,-90.40,14.72,32615
